@@ -18,9 +18,6 @@
   .mobile {
     display: block !important;
   }
-  div {
-    display: none;
-  }
 }
 
 @media (pointer:fine) {
